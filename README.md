@@ -2,7 +2,7 @@
 # Trade&Style
 <img src="https://media.discordapp.net/attachments/460955986581127199/1163484546310864906/image.png?ex=653fbe6c&is=652d496c&hm=57e324c8c59a51ed277b56a16009cffb26f869384cf585095b73fe6786be98e0&=" alt="Logo">
 
-Desenvolver um website que permite os usuários a criar, ler, atualizar e excluir anúncios de roupa e produtos usados promovendo a sustentabilidade e consumo consciente.
+E-commerce de roupas e acessórios novoa e usados promovendo a sustentabilidade e consumo consciente.
 
 
 ## Feito Com:
