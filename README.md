@@ -1,7 +1,7 @@
 
 # Trade&Style
 
-E-commerce de roupas e acessórios novoa e usados promovendo a sustentabilidade e consumo consciente.
+E-commerce de roupas e acessórios novos e usados promovendo a sustentabilidade e consumo consciente.
 
 
 ## Feito Com:
